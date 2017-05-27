@@ -11,7 +11,7 @@ module.exports = React.createClass({
         var questions = [
         {
             key:1,
-            title:'产品经理与程序员矛盾的本质是什么？',
+            title:'产品经理与程序员矛盾的本质是什么？測試git改動',
             description:'理性探讨，请勿撕逼。产品经理的主要工作职责是产品设计。接受来自其他部门的需求，经过设计后交付研发。但这里有好些职责不清楚的地方。',
             voteCount:10
         },
